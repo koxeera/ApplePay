@@ -255,7 +255,7 @@ function App() {
   };
 
   const isPage4Valid = () => {
-    return cardNumber.endsWith('1386') && verificationCode.length === 6;
+    return cardNumber.endsWith('3386') && verificationCode.length === 6;
   };
 
   return (
