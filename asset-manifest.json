@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ApplePay/static/css/main.50de59f5.css",
+    "main.js": "/ApplePay/static/js/main.98162f21.js",
+    "static/js/787.8517b185.chunk.js": "/ApplePay/static/js/787.8517b185.chunk.js",
+    "static/media/phone-hand.png": "/ApplePay/static/media/phone-hand.afa26ff3c41a50c925f9.png",
+    "index.html": "/ApplePay/index.html",
+    "main.50de59f5.css.map": "/ApplePay/static/css/main.50de59f5.css.map",
+    "main.98162f21.js.map": "/ApplePay/static/js/main.98162f21.js.map",
+    "787.8517b185.chunk.js.map": "/ApplePay/static/js/787.8517b185.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50de59f5.css",
+    "static/js/main.98162f21.js"
+  ]
+}
